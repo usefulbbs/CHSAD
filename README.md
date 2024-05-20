@@ -1,1 +1,8 @@
 # CHSAD
+**Chinese Seal Authenticity Dataset (CHSAD) Overview:**
+
+The Chinese Seal Authenticity Dataset (CHSAD) is a curated collection of seal images designed to address the challenge of distinguishing between genuine and forged seals. With a total of 605 distinct seal images, CHSAD provides a rich dataset that includes both authentic and artificially generated counterfeit samples. Each image is meticulously captured to reflect the subtleties and variations inherent in real-world seal usage. The dataset is structured to offer a comprehensive set of 18,390 image pairs, which include nearly identical textual information, making it a formidable testbed for developing and evaluating seal verification algorithms.
+
+**Dataset Significance and Structure:**
+
+CHSAD represents a significant contribution to the field of document security, providing researchers with the means to train and test advanced machine learning models. The dataset is divided into a training set and a test set, maintaining an 8:1 ratio to ensure robust model evaluation. The training set comprises 522 images with a substantial number of both positive and negative sample pairs, while the test set contains 83 images for final model assessment. The careful curation of CHSAD ensures that it includes a variety of seal images that are affected by natural interference and digital distortions, simulating the complexities encountered in practical seal verification scenarios. By releasing CHSAD to the public, we aim to promote collaborative research, encourage the development of innovative verification techniques, and ultimately enhance the security and trustworthiness of document authentication processes.
